@@ -55,21 +55,9 @@ body {
 
 
 .tabs .topics .tab {
-  display: flex;
-  justify-content: none;
-  align-items: center;
-  flex-direction: row;
-  color: #fff;
-  background-color: #333;
-  margin: 0 5px;
-  padding: 2px 10px;
-  font-size: 12px;
-  letter-spacing: 2px;
-  cursor: pointer;
-  font-weight: bold;
+
 }
 .tabs .topics .tab:hover {
-  text-decoration: underline;
 }
 .tabs .topics .active-tab {
   background-color: #fff;
@@ -94,9 +82,7 @@ body {
 
 }
 .cards-container .card .author .img-container {
-  padding-right: 10px;
-  border-right: 1px solid lightgrey;
-  height: 40px;
+
 }
 .cards-container .card .author .img-container img {
   
