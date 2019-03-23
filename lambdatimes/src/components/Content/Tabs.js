@@ -12,6 +12,7 @@ const TabsContainer = styled.div`
   width: 100%;
   height: 47px;
   background-color: #fff;
+  margin: 0 auto;
   @media(min-width: 1280px){
     width: 1280px;
   }
